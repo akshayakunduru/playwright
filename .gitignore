@@ -7,3 +7,4 @@ playwright/.cache/
 *.log
 .env
 .env*
+config/env.config.ts
